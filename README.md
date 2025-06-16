@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi,  I'm Saranya Jothi Subramanian! <br/>
+<h1>Hi,  I'm Saranya J S! <br/>
 <a href="https://www.linkedin.com/in/your-link-here/">Software Developer - Backend Engineer</a></h1>
 
 <p>🎓 Master's in Software Engineering Systems @ Northeastern University</p>
