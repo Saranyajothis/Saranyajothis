@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi,  I'm Saranya J S! <br/>
-<a href="https://www.linkedin.com/in/your-link-here/">Software Developer - Backend Engineer</a></h1>
+<a href="https://www.linkedin.com/in/your-link-here/">Software Developer - Backend Developer | AI Engineer</a></h1>
 
 <p>🎓 Master's in Software Engineering Systems @ Northeastern University</p>
 <p>💼 Former Senior Software Engineer @ Larsen & Toubro Infotech, Bangalore</p>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🔭 I’m currently pursuing my Master's at <b>Northeastern University</b>, with a focus on backend systems, scalable architectures and cloud platforms</li>
   <li>💼 I previously worked as a <b>Senior Software Developer</b> at <b>Larsen & Toubro Infotech</b> and <b>Virtusa</b>, where I optimized backend performance and led projects involving content management and headcount tools</li>
-  <li>🌱 I’m learning cloud technologies and exploring how <b>Large Language Models (LLMs)</b> can be integrated into data systems.</li>
+  <li>🌱 I’m learning cloud technologies and exploring how <b>Large Language Models (LLMs)</b> can be integrated into backend systems.</li>
   <li>🤝 I'm open to collaborate on System Design, Software Development, Data Visualization, GenAI-powered tools, and research projects.</li>
   <li>💡 I’m passionate about solving technical challenges, streamlining performance, and building impactful software systems.</li>
 </ul>
@@ -48,14 +48,16 @@ Here are some ideas to get you started:
 -->
 <h2>🛠 Technical Skills</h2>
 <p>
-<b>Languages:</b> Java, Python, C#, SQL<br/>
-<b>Libraries/Frameworks:</b> Spring, Spring Boot, JUnit, Node.js, Express.js, UIKit, Unity Engine, Pandas, NumPy, Scikit-learn<br/>
-<b>Cloud & Platforms:</b>AWS<br/>
-<b>Databases:</b> MySQL, Oracle, MongoDB<br/>
+<b>Languages:</b> Java, Python, SQL, C++<br/>
+<b>Libraries/Frameworks:</b> Executor, Spring Boot, Node.js, Express.js, RESTful APIs, JUnit, JMeter, Maven<br/>
+<b>AI & ML:</b> LLaMA, LangGraph, RAG pipelines, FAISS, Hugging Face<br/>
+<b>Cloud & DevOps:</b> AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, GitHub Actions, SonarQube, CI/CD<br/>
+<b>Databases:</b> MySQL, Oracle, MongoDB, Redis<br/>
 <b>Messaging Queues:</b>Kafka, ActiveMQ<br/>
-<b>Monitoring Tools:</b>Sumo Logic, Grafana, Splunk<br/>
+<b>Monitoring Tools:</b> Grafana, Splunk, New Relic, Sumo Logic<br/>
 <b>Tools:</b> Figma, Balsamiq, Moqups, Tableau<br/>
-<b>Other:</b> Git, JIRA, Bitbucket, Jira, Confluence, Kanban board, VS Code, Spring Tool Spuite, Xcode, Postman
+<b>Architecture & Design:</b> Microservices, Event-Driven Architecture (Kafka), Distributed Systems, Object Oriented Programming <br/>
+<b>Project Management:</b> Agile-Scrum, Jira, Confluence, Kanban Board <br/>
 </p>
 
 <h2>🤝 Let’s Connect!</h2>
