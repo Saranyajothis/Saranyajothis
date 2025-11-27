@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/your-link-here/">Software Developer - Backend Developer | AI Engineer</a></h1>
 
 <p>🎓 Master's in Software Engineering Systems @ Northeastern University</p>
-<p>💼 Former Senior Software Engineer @ Larsen & Toubro Infotech, Bangalore</p>
+<p>💼 Former Specialist Software Engineer @ Larsen & Toubro Infotech, Bangalore</p>
 
 <h2>👋 About Me</h2>
 
