@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>🔭 I’m currently pursuing my Master's at <b>Northeastern University</b>, with a focus on backend systems, scalable architectures and cloud platforms</li>
-  <li>💼 I previously worked as a <b>Senior Software Developer</b> at <b>Larsen & Toubro Infotech</b> and <b>Virtusa</b>, where I optimized backend performance and led projects involving content management and headcount tools</li>
+  <li>💼 I previously worked as a <b> Backend Software Developer</b> at <b>Larsen & Toubro Infotech</b> and <b>Virtusa</b>, where I optimized backend performance and led projects involving content management and headcount tools</li>
   <li>🌱 I’m learning cloud technologies and exploring how <b>Large Language Models (LLMs)</b> can be integrated into backend systems.</li>
   <li>🤝 I'm open to collaborate on System Design, Software Development, Data Visualization, GenAI-powered tools, and research projects.</li>
   <li>💡 I’m passionate about solving technical challenges, streamlining performance, and building impactful software systems.</li>
